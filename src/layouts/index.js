@@ -4,6 +4,7 @@ import Helmet from 'react-helmet';
 
 import Navbar from '../components/Navbar';
 import './all.sass';
+import 'font-awesome/css/font-awesome.min.css';
 
 const TemplateWrapper = ({ children }) => (
   <div>
