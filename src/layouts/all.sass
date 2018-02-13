@@ -1,11 +1,11 @@
 @import "~bulma/sass/utilities/initial-variables"
 
 // Config
-$kaldi-red: #FD461E
-$kaldi-red-invert: #fff
+$me-c-blue: #008FBA
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
+@font-face
+    font-family: 'Maiandra'
+    src: url('Maiandra_GD_Regular.ttf')
 
 // Helper Classes
 .full-width-image-container
@@ -24,15 +24,28 @@ $primary-invert: $kaldi-red-invert
 .margin-top-0
   margin-top: 0 !important
 
-#me-title1
-  color: red
-
-#me-title2
-  color: blue
+#me-title
+  color: white
+  font-family: 'Maiandra'
+  font-size: 30px
 
 .me-social
   display: block
   float: left
   padding-right: 5px
+
+#me-navbar
+  background-color: $me-c-blue
+
+.navbar-item
+  color: white !important
+
+.navbar-item:hover
+  color: white !important
+  font-weight: bold
+  background-color: $me-c-blue !important
+
+
+
 
 @import "~bulma"

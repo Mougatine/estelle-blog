@@ -8,11 +8,11 @@ import '../layouts/all.sass';
 
 
 const Navbar = () => (
-  <nav className="navbar is-transparent">
+  <nav className="navbar" id="me-navbar">
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
-          <span id="me-title1">E</span><span id="me-title2">THOU</span>
+          <span id="me-title">eTHOU</span>
         </Link>
       </div>
       <Link to="/" className="navbar-item">
