@@ -41,7 +41,7 @@ export default class IndexPage extends React.Component {
               >
                 <p>
                   <Link className="has-text-primary" to={post.frontmatter.path}>
-                    {post.frontmatter.title}
+                    <span className="me-link">{post.frontmatter.title}</span>
                   </Link>
                   <span> &bull; </span>
                   <small>{post.frontmatter.date}</small>
