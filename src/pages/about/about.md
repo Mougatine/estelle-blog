@@ -1,26 +1,14 @@
 ---
 templateKey: about-page
 path: /about
-title: About our values
+title: 'Holà, moi c’est Estelle ! '
 ---
-Holà, moi c’est Estelle ! 
+Vous trouverez sur cette page une description de mon parcours professionnel et mes motivations à la rédaction de ce blog. 
 
-### Shade-grown coffee
+### Parcours professionnel 
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Suite à deux années en classe préparatoire aux grandes écoles (spécialisation BCPST : Biologie, Chimie, Physique, Science de la Terre), j’ai intégré Agrocampus Ouest localisé à Rennes. J’ai effectué mes deux premières années d’ingénieur dans cette école dont l’enseignement tourne autour de l’agronomie et de l’agro-alimentaire. Grande amatrice de cuisine, je me suis orientée en **Nutrition** dès la 2eme année avec un apprentissage de qualité. J’ai découvert la **biochimie des acides gras **avec Philippe Legrand, la **microbiologie** et maîtrise de la qualité sanitaire auprès de Florence Baron, les **ingrédients alimentaires** avec Amélie Deglaire et tant d’autre enseignant-chercheurs passionnés et passionnants. Enfin j’ai effectué ma dernière année d’ingénieur à l’école d’AgroParisTech en Nutrition et Santé Humaine option Marketing. J’ai pu approfondir mes connaissances en Nutrition depuis la molécule aux ingrédients, de l’échelle de l’homme aux populations. Ce qui m’amène à la seconde partie…
 
-### Single origin
+### Mes motivations 
 
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
-
-### Sustainable farming
-
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+J’aimerai à travers ce blog partager mon apprentissage de ces trois dernières années. Les aliments, la nutrition, la diététique … tant de termes communs dont on pense connaitre le sens. Mais des mécanismes bien plus complexes (et intéressants) se cachent derrière chacun d’entre eux. Mieux les comprendre c’est pouvoir mieux les appréhender, construire son propre avis et mieux choisir pour soi-même. Dans ce blog, je n’exposerai que des **informations objectives, référencées, avec un fondement scientifique sans conflit d’intérêt.** J’aimerai dé-vulgariser les propos médiatiques, rendre du sens à la science des aliments et rendre du sens à ce que vous mangez tous les jours. Evidemment, je ne suis pas (encore) experte dans ce domaine, mais comme vous j’en apprends tous les jours et j’ai pour but de vous rendre la Nutrition aussi passionnante qu’elle ne l’est pour moi.
