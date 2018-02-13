@@ -3,9 +3,7 @@ templateKey: about-page
 path: /about
 title: About our values
 ---
-My name is Estelle
-
-
+Holà, moi c’est Estelle ! 
 
 ### Shade-grown coffee
 
