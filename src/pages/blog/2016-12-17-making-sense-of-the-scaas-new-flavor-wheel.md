@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: introduction
 title: Introduction à la nutrition
-date: 2018-02-26T13:20:10+01:00
+date: 2018-02-26T12:20:10.000Z
 description: >
   A table ! 
 
@@ -22,8 +22,6 @@ description: >
 
 **Les nutriments :** Corps chimique absorbé et métabolisé par les cellules ; On y trouve les macronutriments (glucide, lipide, acide aminé) et les micronutriments (vitamines et minéraux). Parmi eux, certains sont essentiels (ex : glucose) mais que le corps sait synthétiser soi-même à partir d’autre nutriment =/= d’autres sont indispensables (non synthétisé ou bien en quantité insuffisante) et doivent être apportés par l’alimentation.  
 
-
-
 ![null](/img/capture.jpg)
 
 Le lien entre alimentation et santé existe depuis l’Antiquité (Cf Hippocrate « que ton aliment soit ton médicament »). Or cette santé passe par notre capacité à se mouvoir, être physiquement actif. On remarque ainsi très tôt qu’alimentation et exercice physique ont des vertus opposées mais toutes deux collaborent à la santé. 
@@ -36,7 +34,7 @@ Puis, on voit parmi les populations des pays développés i.e. « repue », des 
 
 Le but des organismes de santé devient ainsi la réduction du risque d’apparition de maladies à composantes nutritionnelles démontrées (ex : syndrome métabolique, obésité, diabète de type II etc.)
 
-## Facteur de prédisposition 
+## Facteur de prédisposition
 
 Nous sommes tous des êtes humains avec une organisation similaire dont le patrimoine génétique diffère. 
 
@@ -44,4 +42,4 @@ Pour rappel, nos cellules (unité essentielle de tout organisme vivant) sont con
 
 ![Par Eukaryote DNA.svg: SponkDerivative work: Bob Saint Clar (talk) — https://commons.wikimedia.org/wiki/File:Eukaryote_DNA.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=39115041 ](/img/eukaryote_dna-fr.svg.png)
 
-Ainsi, il existe des populations avec des profils génétiques à risque. Ces populations peuvent être plus sensibles à certains facteurs environnementaux (ex : tabac, alcool, régime salé etc.). Nous noterons ici un dilemme majeur pour les organisations de santé, à faire valoir des recommandations alimentaires répondants à la population générale au dépend de ces populations particulières.
+Ainsi, il existe des populations avec des profils génétiques à risque. Ces populations peuvent être plus sensibles à certains facteurs environnementaux (ex : tabac, alcool, régime salé etc.). Nous noterons ici un dilemme majeur pour les organisations de santé, à faire valoir des recommandations alimentaires répondants à la population générale au détriment de ces populations particulières.
