@@ -64,6 +64,10 @@ Avant de pouvoir aborder le cœur de notre sujet qu'est la Nutrition, il est  n�
 
 ![](/img/capture.jpg)
 
+Maintenant que nous connaissant le sens de la Nutrition, nous pourrions-nous demander pourquoi la relation entre la nourriture et la santé diffère telle entre les individus ? 
+
+
+
 ## Facteur de prédisposition
 
 Nous sommes tous des êtes humains avec une organisation similaire dont le patrimoine génétique diffère. 
@@ -72,6 +76,6 @@ Pour rappel, nos cellules (unité essentielle de tout organisme vivant) sont con
 
 ![Par Eukaryote DNA.svg: SponkDerivative work: Bob Saint Clar (talk) — https://commons.wikimedia.org/wiki/File:Eukaryote_DNA.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=39115041 ](/img/eukaryote_dna-fr.svg.png)
 
-Ainsi, il existe des populations avec des profils génétiques à risque. Ces populations peuvent être plus sensibles à certains facteurs environnementaux (ex : tabac, alcool, régime salé etc.). Nous noterons ici un dilemme majeur pour les organisations de santé, à faire valoir des recommandations alimentaires répondants à la population générale au détriment de ces populations particulières. 
+Ainsi, il existe des **populations avec des profils génétiques à risque.** Ces populations peuvent être plus sensibles à certains facteurs environnementaux (ex : tabac, alcool, régime salé etc.). Nous noterons ici un dilemme majeur pour les organisations de santé, à faire valoir des recommandations alimentaires répondants à la population générale au détriment de ces populations particulières. 
 
 En effet, ces organisations publiques sous l'ordre de l'Etat, doit mettre en oeuvre toutes les mesures tendant à assurer la plus grande égalité possible des citoyens face à la maladie, à améliorer la qualité des soins et à promouvoir globalement la Santé Publique.
