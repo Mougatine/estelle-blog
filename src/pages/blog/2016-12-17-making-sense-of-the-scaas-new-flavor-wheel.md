@@ -38,35 +38,22 @@ Puis, on voit des attentes croissantes de la part des pays développés ("popula
 
 ## Chiffres clefs
 
-* **DIABÈTE **: D'après la FFD (Fédération Française des Diabétiques), entre 2000 et 2009, le nombre de personnes diabétiques par rapport à l’ensemble de la population (taux de prévalence) n'a cessé d’augmenter. Il a même progressé plus vite que prévu. En **2009**, on estimait à plus de **3,5 millions** **le nombre de diabétique**, des chiffres attendus normalement pour 2016. Comme causes principales du diabète : surpoids, obésité, mauvaise alimentation, sédentarité et faible activité physique.
-
-
-
+* **DIABÈTE **: D'après la FFD (Fédération Française des Diabétiques), entre 2000 et 2009, le nombre de personnes diabétiques par rapport à l’ensemble de la population (taux de prévalence) n'a cessé d’augmenter. Il a même progressé plus vite que prévu. En **2009**, on estimait à plus de **3,5 millions** le nombre de diabétique, des chiffres attendus normalement pour 2016. Comme causes principales du diabète : surpoids, obésité, mauvaise alimentation, sédentarité et faible activité physique.
 * **OBÉSITÉ : **En France 6,5 millions de personnes sont considérées comme obèses (soit **14,5% de la population adulte**). La proportion des personnes obèses est passée de 8.5% à 14,5% entre 1997 et 2009. Ceci concerne toutes les tranches d'âge de la population, y compris les seniors. Cependant, celle-ci semble plus importante chez les femmes (15,1%) que chez les hommes (13,9%). (Source : "Enquête épidémiologique ObEpi - Roche 2009") 
 
-
-
 Avant de pouvoir aborder le cœur de notre sujet qu'est la Nutrition, il est  nécessaire de définir précisément les termes de ce domaine.  Leur définition vous permettra d'en comprendre concrètement leur fonction et de discerner les abus de langages couramment employés par les médias :  "aliments nutritifs", "aliment diététique" késako ! 
-
-
 
 ## Définition
 
 * **La nutrition** :_ science _qui analyse la relation entre la nourriture et la santé. Fonction de la nutrition = fonction physiologique nécessaire à la métabolisation des nutriments pour la croissance de l’homme, le bon fonctionnement et maintien de l’organisme.
 * **La diététique :** _pratique_ qui s'intéresse à l’alimentation équilibrée.  Elle intègre une dimension culturelle liée aux pratiques alimentaires.
 * **La métabolisation :** transformation d'une substance dans un organisme vivant.  Par exemple, lorsque je mange de la viande, les protéines animales qui la constitue, sont ingérées puis digérées par mon corps pour se transformer en unités plus petites qui sont les acides aminées.
-*  **Les aliments :** corps chimique ou mélange, absorbé, métabolisé à des fins énergétiques structurels et de synthèse.
+* **Les aliments :** corps chimique ou mélange, absorbé, métabolisé à des fins énergétiques structurels et de synthèse.
 * **Les nutriments :** Corps chimique absorbé et métabolisé par les cellules ; On y trouve les macronutriments (glucide, lipide, acide aminé) et les micronutriments (vitamines et minéraux). Parmi eux, certains sont** essentiels** (ex : glucose) mais que le corps sait synthétiser soi-même à partir d’autre nutriment. D'autres nutriments sont **indispensables** (non synthétisé ou bien en quantité insuffisante) et doivent être apportés par l’alimentation.  
 
-
-
-
-
-![](/img/capture.jpg)
+![null](/img/capture.jpg)
 
 Maintenant que nous connaissant le sens de la Nutrition, nous pourrions-nous demander pourquoi la relation entre la nourriture et la santé diffère telle entre les individus ? 
-
-
 
 ## Facteur de prédisposition
 
@@ -78,4 +65,4 @@ Pour rappel, nos cellules (unité essentielle de tout organisme vivant) sont con
 
 Ainsi, il existe des **populations avec des profils génétiques à risque.** Ces populations peuvent être plus sensibles à certains facteurs environnementaux (ex : tabac, alcool, régime salé etc.). Nous noterons ici un dilemme majeur pour les organisations de santé, à faire valoir des recommandations alimentaires répondants à la population générale au détriment de ces populations particulières. 
 
-En effet, ces organisations publiques sous l'ordre de l'Etat, doit mettre en oeuvre toutes les mesures tendant à assurer la plus grande égalité possible des citoyens face à la maladie, à améliorer la qualité des soins et à promouvoir globalement la Santé Publique.
+En effet, ces organisations publiques sous l'ordre de l'Etat doivent mettre en oeuvre toutes les mesures tendant à assurer la plus grande égalité possible des citoyens face à la maladie, à améliorer la qualité des soins et à promouvoir globalement la Santé Publique.
