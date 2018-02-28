@@ -38,7 +38,7 @@ Puis, on voit des attentes croissantes de la part des pays développés ("popula
 
 ## Chiffres clefs
 
-* **DIABÈTE **: D'après la FFD (Fédération Française des Diabétiques), entre 2000 et 2009, le nombre de personnes diabétiques par rapport à l’ensemble de la population (taux de prévalence) n'a cessé d’augmenter. Il a même progressé plus vite que prévu. En **2009**, on estimait à plus de **3,5 millions** le nombre de diabétique, des chiffres attendus normalement pour 2016. Comme causes principales du diabète : surpoids, obésité, mauvaise alimentation, sédentarité et faible activité physique.
+* **DIABÈTE** : D'après la FFD (Fédération Française des Diabétiques), entre 2000 et 2009, le nombre de personnes diabétiques par rapport à l’ensemble de la population (taux de prévalence) n'a cessé d’augmenter. Il a même progressé plus vite que prévu. En 2009, on estimait à plus de **3,5 millions** le nombre de diabétique, des chiffres attendus normalement pour 2016. Comme causes principales du diabète : surpoids, obésité, mauvaise alimentation, sédentarité et faible activité physique.
 * **OBÉSITÉ : **En France 6,5 millions de personnes sont considérées comme obèses (soit **14,5% de la population adulte**). La proportion des personnes obèses est passée de 8.5% à 14,5% entre 1997 et 2009. Ceci concerne toutes les tranches d'âge de la population, y compris les seniors. Cependant, celle-ci semble plus importante chez les femmes (15,1%) que chez les hommes (13,9%). (Source : "Enquête épidémiologique ObEpi - Roche 2009") 
 
 Avant de pouvoir aborder le cœur de notre sujet qu'est la Nutrition, il est  nécessaire de définir précisément les termes de ce domaine.  Leur définition vous permettra d'en comprendre concrètement leur fonction et de discerner les abus de langages couramment employés par les médias :  "aliments nutritifs", "aliment diététique" késako ! 
@@ -53,13 +53,15 @@ Avant de pouvoir aborder le cœur de notre sujet qu'est la Nutrition, il est  n�
 
 ![null](/img/capture.jpg)
 
-Maintenant que nous connaissant le sens de la Nutrition, nous pourrions-nous demander pourquoi la relation entre la nourriture et la santé diffère telle entre les individus ? 
+Maintenant que nous connaissons le sens de la Nutrition, nous pourrions-nous demander pourquoi la relation entre la nourriture et la santé diffère telle entre les individus ? 
 
 ## Facteur de prédisposition
 
 Nous sommes tous des êtes humains avec une organisation similaire dont le patrimoine génétique diffère. 
 
-Pour rappel, nos cellules (unité essentielle de tout organisme vivant) sont constituées de noyau. Dans ce noyau est contenu notre ADN. L'ADN contient toute l'information génétique (appelée génome) permettant le développement, le fonctionnement et la reproduction des êtres vivants. Il s’organise sous forme de chromosome 
+> Le patrimoine génétique ? 
+
+Nos cellules (unité essentielle de tout organisme vivant) sont constituées de noyau. Dans ce noyau est contenu notre ADN. L'ADN contient toute l'information génétique (appelée génome) permettant le développement, le fonctionnement et la reproduction des êtres vivants. Il s’organise sous forme de chromosome 
 
 ![Par Eukaryote DNA.svg: SponkDerivative work: Bob Saint Clar (talk) — https://commons.wikimedia.org/wiki/File:Eukaryote_DNA.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=39115041 ](/img/eukaryote_dna-fr.svg.png)
 
